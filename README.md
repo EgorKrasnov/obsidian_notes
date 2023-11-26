@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EgorKrasnov (Pozumentshchikov). Data analyst/product manager at JetLend (current at 26.11.2023)
-- This is my REP, that should help me achieve my goals:
+- This is my REP, which should help me achieve my goals by daily committing to step-by-step improvements
   - Improve Python skills
     - Data analysis (I'll write some libs here later)
-    - Data visualisation (Matplotlib, Seaborn, Plotly)
+    - Data visualization (Matplotlib, Seaborn, Plotly)
     - Basic data engineering (Spark, Hadoop, Airlflow)
   - Improve math (to do some Computer vision in medicine):
     - Calculus
