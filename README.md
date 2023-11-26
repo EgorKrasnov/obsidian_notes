@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @EgorKrasnov
-- 👀 I’m interested in analytic, data engineering
-- 🌱 I’m currently learning python :)
-- 📫 How to reach me pozumentshchikov@yandex.ru
-<!---
-EgorKrasnov/EgorKrasnov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @EgorKrasnov (Pozumentshchikov). Data analyst/product manager at JetLend (current at 26.11.2023)
+- This is my REP, that should help me achieve my goals:
+  - Improve Python skills
+    - Data analysis (I'll write some libs here later)
+    - Data visualisation (Matplotlib, Seaborn, Plotly)
+    - Basic data engineering (Spark, Hadoop, Airlflow)
+  - Improve math (to do some Computer vision in medicine):
+    - Calculus
+    - Probability theory
+    - Linear algebra
+  -  Improve English by doing Obsidian notes
+  -  Get to know git better
+- 📫 If for any reason you want to reach me - Pozumentshchikov@yandex.ru or @Pozumentshchikov on Telegram
