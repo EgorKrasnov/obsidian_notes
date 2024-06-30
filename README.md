@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EgorKrasnov (Pozumentshchikov). Data analyst/product manager at JetLend (current at 26.11.2023)
+- 👋 Hi, I’m @EgorKrasnov (Pozumentshchikov). Data analyst at SberHealth
 - This is my REP, which should help me achieve my goals by daily committing to step-by-step improvements
   - Improve Python skills
     - Data analysis (I'll write some libs here later)
