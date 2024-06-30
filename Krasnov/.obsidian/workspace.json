@@ -11,8 +11,12 @@
             "id": "d83f67efea0a40bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md"
+              }
             }
           }
         ]
@@ -140,6 +148,13 @@
   },
   "active": "d83f67efea0a40bf",
   "lastOpenFiles": [
+    "Pasted image 20240630225725.png",
+    "1. Math/Аналитическая геометрия/Таблица значений тригонометрических функций.md",
+    "Pasted image 20240630224633.png",
+    "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md",
+    "Pasted image 20240630224046.png",
+    "1. Math/Теорема Байеса.md",
+    "1. Math/Аналитическая геометрия",
     "2. AB testing/2. Statistic Tests/3. Homoscedasticity tests/Breusch-Pagan test.md",
     "2. AB testing/2. Statistic Tests/1.0 Parametric tests/T-test.md",
     "1. Stat analysis/2. Analysis/Common ideas/Analysis of Measurement variables.md",
@@ -170,21 +185,14 @@
     "2. AB testing/KC/Sampling.md",
     "2. AB testing/KC/Proxy (эрзац) переменная.md",
     "2. AB testing/KC/Permutation test.md",
-    "2. AB testing/KC/Bootstrap.md",
-    "2. AB testing/1. Basics/P value.md",
-    "2. AB testing/1. Basics/Multiple comparisons problem.md",
-    "2. AB testing/KC/P value.md",
     "0. Commons/Images/Pasted image 20240529184923.png",
     "0. Commons/Images/Pasted image 20240601013927.png",
     "2. AB testing/KC/Untitled",
     "0. Commons/Images/Pasted image 20240531235802.png",
-    "0. Commons/Images/Pasted image 20240531235023.png",
-    "0. Commons/Images/Pasted image 20240531235020.png",
     "2. AB testing/KC",
     "2. AB testing/2. Statistic Tests/2.1 Variance equality tests",
     "2. AB testing/2. Statistic Tests/1.2 Contingency tables",
     "1. Stat analysis/2. Analysis/Special methods",
-    "1. Stat analysis/2. Analysis/Common ideas",
-    "1. Stat analysis/2. Analysis"
+    "1. Stat analysis/2. Analysis/Common ideas"
   ]
 }
