@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "fb31781c44298d26",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52de30cd6396902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83f67efea0a40bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c14fb749e0353bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1871ad1134093c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "352ed7bb76ee7d8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8788f52dcdd01c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "homo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8b3bdb9c59c5be4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2abf922f7dabd6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7ee3955b3b744ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42a984f94946b12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4b7b0bfef4cfe6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce2809585e4f6ff8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ebb7601c105d92b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d83f67efea0a40bf",
+  "lastOpenFiles": [
+    "2. AB testing/2. Statistic Tests/3. Homoscedasticity tests/Breusch-Pagan test.md",
+    "2. AB testing/2. Statistic Tests/1.0 Parametric tests/T-test.md",
+    "1. Stat analysis/2. Analysis/Common ideas/Analysis of Measurement variables.md",
+    "1. Stat analysis/2. Analysis/Special methods/Regression Linear.md",
+    "1. Stat analysis/2. Analysis/Special methods/ANOVA (Analysis of Variance).md",
+    "2. AB testing/KC/Exploratory data analysis.md",
+    "2. AB testing/KC/Доверительные интервалы.md",
+    "2. AB testing/KC/Распределения Плотность.md",
+    "Shad-prep/README.md",
+    "Shad-prep/prep_guidance.md",
+    "Shad-prep/syllabus.md",
+    "Shad-prep/timestamps.linear_algebra.md",
+    "Shad-prep/programmes.md",
+    "Shad-prep/old.md",
+    "Shad-prep/reviews.md",
+    "0. Commons/Images/Pasted image 20240603030823.png",
+    "0. Commons/Images/Pasted image 20240604155254.png",
+    "0. Commons/Images/Pasted image 20240604154851.png",
+    "0. Commons/Images/Pasted image 20240604154823.png",
+    "0. Commons/Images/Pasted image 20240603031435.png",
+    "2. AB testing/2. Statistic Tests/1.2 Contingency tables/Z statistic.md",
+    "Shad-prep/Linear_algebra.export.org",
+    "Shad-prep",
+    "untitled folder",
+    "2. AB testing/2. Statistic Tests/1.1 Non-parametric tests/U-test Mann–Whitney.md",
+    "2. AB testing/KC/MDE.md",
+    "2. AB testing/KC/Выборочное распределение.md",
+    "2. AB testing/KC/Sampling.md",
+    "2. AB testing/KC/Proxy (эрзац) переменная.md",
+    "2. AB testing/KC/Permutation test.md",
+    "2. AB testing/KC/Bootstrap.md",
+    "2. AB testing/1. Basics/P value.md",
+    "2. AB testing/1. Basics/Multiple comparisons problem.md",
+    "2. AB testing/KC/P value.md",
+    "0. Commons/Images/Pasted image 20240529184923.png",
+    "0. Commons/Images/Pasted image 20240601013927.png",
+    "2. AB testing/KC/Untitled",
+    "0. Commons/Images/Pasted image 20240531235802.png",
+    "0. Commons/Images/Pasted image 20240531235023.png",
+    "0. Commons/Images/Pasted image 20240531235020.png",
+    "2. AB testing/KC",
+    "2. AB testing/2. Statistic Tests/2.1 Variance equality tests",
+    "2. AB testing/2. Statistic Tests/1.2 Contingency tables",
+    "1. Stat analysis/2. Analysis/Special methods",
+    "1. Stat analysis/2. Analysis/Common ideas",
+    "1. Stat analysis/2. Analysis"
+  ]
+}
