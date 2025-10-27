@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f52de30cd6396902",
+        "id": "95c0395141207a9e",
         "type": "tabs",
         "children": [
           {
-            "id": "d83f67efea0a40bf",
+            "id": "94038328463807d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +65,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b2abf922f7dabd6f",
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md",
+                "file": "1. Math/Теорема Байеса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Теорема Байеса"
             }
           },
           {
@@ -102,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md",
+                "file": "1. Math/Теорема Байеса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Теорема Байеса"
             }
           },
           {
@@ -115,8 +124,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,74 +138,91 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md"
-              }
+                "file": "1. Math/Теорема Байеса.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Теорема Байеса"
+            }
+          },
+          {
+            "id": "59e03ab7f3edf1d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d83f67efea0a40bf",
+  "active": "94038328463807d3",
   "lastOpenFiles": [
-    "Pasted image 20240630225725.png",
-    "1. Math/Аналитическая геометрия/Таблица значений тригонометрических функций.md",
-    "Pasted image 20240630224633.png",
-    "1. Math/Аналитическая геометрия/Скалярное произведение векторов.md",
-    "Pasted image 20240630224046.png",
+    "Untitled.md",
     "1. Math/Теорема Байеса.md",
-    "1. Math/Аналитическая геометрия",
-    "2. AB testing/2. Statistic Tests/3. Homoscedasticity tests/Breusch-Pagan test.md",
-    "2. AB testing/2. Statistic Tests/1.0 Parametric tests/T-test.md",
-    "1. Stat analysis/2. Analysis/Common ideas/Analysis of Measurement variables.md",
-    "1. Stat analysis/2. Analysis/Special methods/Regression Linear.md",
-    "1. Stat analysis/2. Analysis/Special methods/ANOVA (Analysis of Variance).md",
-    "2. AB testing/KC/Exploratory data analysis.md",
+    "0. Commons/Learning materials.md",
+    "0. Commons/Books/Статистика для всех, Бослаф С..md",
+    "0. Commons/Books/Практическая статистика для специалистов Data Science.md",
+    "2. AB testing/KC/Метрики отношения и Линеаризация.md",
+    "2. AB testing/KC/Многорукий бандит.md",
+    "2. AB testing/KC/Контроль вероятности ошибки I рода.md",
     "2. AB testing/KC/Доверительные интервалы.md",
-    "2. AB testing/KC/Распределения Плотность.md",
-    "Shad-prep/README.md",
-    "Shad-prep/prep_guidance.md",
-    "Shad-prep/syllabus.md",
-    "Shad-prep/timestamps.linear_algebra.md",
-    "Shad-prep/programmes.md",
-    "Shad-prep/old.md",
-    "Shad-prep/reviews.md",
+    "2. AB testing/KC/Sampling.md",
+    "2. AB testing/KC/Выборочное распределение.md",
+    "2. AB testing/KC/Proxy (эрзац) переменная.md",
+    "2. AB testing/KC/Permutation test.md",
+    "2. AB testing/KC/MDE.md",
+    "2. AB testing/KC/Bootstrap.md",
+    "2. AB testing/KC/Оценка Несмещенная.md",
+    "2. AB testing/KC/Распределение Биномиальное.md",
+    "2. AB testing/KC/Оценка Состоятельность.md",
+    "2. AB testing/KC/Распределение Стандартное нормальное.md",
+    "2. AB testing/1. Basics/Type I and type II errors.md",
+    "1. Stat analysis/0. TBD/Tukey's Ladder of Transformations.md",
+    "1. Stat analysis/0. TBD/Principal component analysis.md",
+    "1. Stat analysis/0. TBD/Box-Cox transformation.md",
+    "1. Stat analysis/2. Analysis/Common ideas/Analysis of Measurement variables.md",
+    "1. Stat analysis/2. Analysis/Common ideas/Analysis of Nominal variables.md",
+    "1. Stat analysis/1. Therms/Homoscedasticity.md",
+    "3. Computer Sciences/Pandas",
+    "Нулевой проект/0",
+    "Нулевой проект",
+    "Pasted image 20240717004035.png",
+    "Pasted image 20240717004344.png",
+    "Pasted image 20240630224046.png",
+    "Pasted image 20240717003909.png",
+    "Pasted image 20240630225725.png",
+    "Pasted image 20240630224633.png",
+    "1. Math/Аналитическая геометрия",
     "0. Commons/Images/Pasted image 20240603030823.png",
     "0. Commons/Images/Pasted image 20240604155254.png",
     "0. Commons/Images/Pasted image 20240604154851.png",
     "0. Commons/Images/Pasted image 20240604154823.png",
-    "0. Commons/Images/Pasted image 20240603031435.png",
-    "2. AB testing/2. Statistic Tests/1.2 Contingency tables/Z statistic.md",
     "Shad-prep/Linear_algebra.export.org",
     "Shad-prep",
     "untitled folder",
-    "2. AB testing/2. Statistic Tests/1.1 Non-parametric tests/U-test Mann–Whitney.md",
-    "2. AB testing/KC/MDE.md",
-    "2. AB testing/KC/Выборочное распределение.md",
-    "2. AB testing/KC/Sampling.md",
-    "2. AB testing/KC/Proxy (эрзац) переменная.md",
-    "2. AB testing/KC/Permutation test.md",
-    "0. Commons/Images/Pasted image 20240529184923.png",
-    "0. Commons/Images/Pasted image 20240601013927.png",
     "2. AB testing/KC/Untitled",
-    "0. Commons/Images/Pasted image 20240531235802.png",
     "2. AB testing/KC",
-    "2. AB testing/2. Statistic Tests/2.1 Variance equality tests",
-    "2. AB testing/2. Statistic Tests/1.2 Contingency tables",
-    "1. Stat analysis/2. Analysis/Special methods",
-    "1. Stat analysis/2. Analysis/Common ideas"
+    "2. AB testing/2. Statistic Tests/2.1 Variance equality tests"
   ]
 }
