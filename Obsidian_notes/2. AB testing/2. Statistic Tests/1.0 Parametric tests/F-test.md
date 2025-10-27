@@ -2,7 +2,7 @@
 [Useful article](https://saylordotorg.github.io/text_introductory-statistics/s15-chi-square-tests-and-f-tests.html)
 
 > Аналогично проверке гипотезы на основе t-статистики, которая может использоваться вместо перестановочного теста для сравнения средних из двух групп, для ANOVA существует статистическая проверка на основе F-статистики. Данная F-статистика опирается на отношение дисперсии по всем групповым средним (т. е. эффекте условий варианта) к дисперсии из-за остаточной ошибки
-> [[Практическая статистика для специалистов Data Science]]
+> [[0. Books/Практическая статистика для специалистов Data Science/0. cover]]
 
 >Used to compare variances or the equality of means among three or more groups or conditions
 >Common types of F-tests include one-way ANOVA (analysis of variance) and two-way ANOVA

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95c0395141207a9e",
+        "id": "48315a965db9079f",
         "type": "tabs",
         "children": [
           {
-            "id": "94038328463807d3",
+            "id": "8a7ac5538c74f63c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Books/Практическая статистика для специалистов Data Science/0. cover.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0. cover"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "right": {
     "id": "b2abf922f7dabd6f",
@@ -176,34 +180,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94038328463807d3",
+  "active": "8a7ac5538c74f63c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "1. Math/Теорема Байеса.md",
-    "0. Commons/Learning materials.md",
-    "0. Commons/Books/Статистика для всех, Бослаф С..md",
-    "0. Commons/Books/Практическая статистика для специалистов Data Science.md",
-    "2. AB testing/KC/Метрики отношения и Линеаризация.md",
-    "2. AB testing/KC/Многорукий бандит.md",
-    "2. AB testing/KC/Контроль вероятности ошибки I рода.md",
-    "2. AB testing/KC/Доверительные интервалы.md",
-    "2. AB testing/KC/Sampling.md",
-    "2. AB testing/KC/Выборочное распределение.md",
-    "2. AB testing/KC/Proxy (эрзац) переменная.md",
-    "2. AB testing/KC/Permutation test.md",
-    "2. AB testing/KC/MDE.md",
-    "2. AB testing/KC/Bootstrap.md",
-    "2. AB testing/KC/Оценка Несмещенная.md",
-    "2. AB testing/KC/Распределение Биномиальное.md",
-    "2. AB testing/KC/Оценка Состоятельность.md",
-    "2. AB testing/KC/Распределение Стандартное нормальное.md",
+    "0. Books/Практическая статистика для специалистов Data Science",
+    "0. Books/Статистика для всех, Бослаф С./0. cover.md",
+    "Shad-prep/prep_guidance.md",
+    "Shad-prep/README.md",
+    "Shad-prep/syllabus.md",
+    "Learning materials.md",
+    "attachments/Pasted image 20251027221027.png",
     "2. AB testing/1. Basics/Type I and type II errors.md",
-    "1. Stat analysis/0. TBD/Tukey's Ladder of Transformations.md",
-    "1. Stat analysis/0. TBD/Principal component analysis.md",
-    "1. Stat analysis/0. TBD/Box-Cox transformation.md",
-    "1. Stat analysis/2. Analysis/Common ideas/Analysis of Measurement variables.md",
+    "attachments/Pasted image 20240531235802.png",
+    "2. AB testing/1. Basics/P value.md",
+    "2. AB testing/1. Basics/Multiple comparisons problem.md",
+    "attachments/Logistic Regression.png",
+    "attachments/baby heart rate.png",
+    "attachments/Pasted image 20251027221049.png",
+    "0. Books/Практическая статистика для специалистов Data Science/0. cover.md",
+    "0. Books/Статистика для всех, Бослаф С.",
+    "2. AB testing/2. Statistic Tests/1.2 Contingency tables/Yates's correction for continuity.md",
+    "2. AB testing/2. Statistic Tests/1.2 Contingency tables/Fisher's exact test.md",
+    "2. AB testing/2. Statistic Tests/1.2 Contingency tables/Chi-Squared test.md",
+    "2. AB testing/2. Statistic Tests/1.0 Parametric tests/T-test.md",
+    "2. AB testing/2. Statistic Tests/1.0 Parametric tests/F-test.md",
+    "1. Stat analysis/2. Analysis/Special methods/Clusterization.md",
     "1. Stat analysis/2. Analysis/Common ideas/Analysis of Nominal variables.md",
+    "1. Stat analysis/2. Analysis/Экзотика",
+    "1. Stat analysis/2. Analysis/Common ideas/Analysis of Measurement variables.md",
+    "1. Stat analysis/2. Analysis/Special methods/Сorrelation - Pearson coefficient.md",
+    "1. Stat analysis/2. Analysis/Экзотика/Scheffe test.md",
+    "1. Stat analysis/2. Analysis/Special methods/Regression Logistic.md",
+    "1. Stat analysis/2. Analysis/Special methods/Regression Linear.md",
+    "1. Stat analysis/2. Analysis/Экзотика/Durbin–Watson statistic.md",
+    "1. Stat analysis/2. Analysis/Special methods/ANOVA (Analysis of Variance).md",
     "1. Stat analysis/1. Therms/Homoscedasticity.md",
+    "1. Stat analysis/0. TBD/Tukey's Ladder of Transformations.md",
     "3. Computer Sciences/Pandas",
     "Нулевой проект/0",
     "Нулевой проект",
@@ -212,17 +223,10 @@
     "Pasted image 20240630224046.png",
     "Pasted image 20240717003909.png",
     "Pasted image 20240630225725.png",
-    "Pasted image 20240630224633.png",
     "1. Math/Аналитическая геометрия",
-    "0. Commons/Images/Pasted image 20240603030823.png",
-    "0. Commons/Images/Pasted image 20240604155254.png",
-    "0. Commons/Images/Pasted image 20240604154851.png",
-    "0. Commons/Images/Pasted image 20240604154823.png",
     "Shad-prep/Linear_algebra.export.org",
     "Shad-prep",
     "untitled folder",
-    "2. AB testing/KC/Untitled",
-    "2. AB testing/KC",
-    "2. AB testing/2. Statistic Tests/2.1 Variance equality tests"
+    "2. AB testing/KC/Untitled"
   ]
 }
