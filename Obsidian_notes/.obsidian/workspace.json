@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a6e9e5545df9df22",
+        "id": "7d31444c01a4759b",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7eb75210164ead",
+            "id": "60737f2a2c212cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Books/Практическая статистика для специалистов Data Science/0. cover.md",
+                "file": "2. Math/Статистика/0 База/Стандартная ошибка выборки (SE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. cover"
+              "title": "Стандартная ошибка выборки (SE)"
             }
           },
           {
-            "id": "2d3b0c354706d60b",
+            "id": "bbfceb78811eca70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Books/Практическая статистика для специалистов Data Science/Untitled.md",
+                "file": "2. Math/Статистика/2 Стат тесты/1.0 Parametric tests/F-статистика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "F-статистика"
             }
           }
         ],
@@ -56,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 296.5
   },
   "right": {
     "id": "b2abf922f7dabd6f",
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Math/Теорема Байеса.md",
+                "file": "2. Math/Статистика/2 Стат тесты/1.0 Parametric tests/F-статистика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Теорема Байеса"
+              "title": "Outline of F-статистика"
             }
           },
           {
@@ -195,53 +195,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d3b0c354706d60b",
+  "active": "59e03ab7f3edf1d4",
   "lastOpenFiles": [
-    "Untitled.md",
-    "1. Books/Практическая статистика для специалистов Data Science/Untitled.md",
-    "1. Books/Практическая статистика для специалистов Data Science/0. cover.md",
-    "0. Base.base",
-    "Untitled 1.md",
-    "0. Books/Статистика для всех, Бослаф С./Untitled.base",
-    "2. AB testing/KC/Контроль вероятности ошибки I рода.md",
-    "1. Books/Статистика для всех, Бослаф С./0. cover.md",
-    "0. Books/Статистика для всех, Бослаф С./Untitled 1.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "0. Books/Статистика для всех, Бослаф С./Untitled.md",
-    "2. AB testing/1. Basics/Type I and type II errors.md",
-    "Learning materials.md",
-    "4. Med ML/Common problems.md",
-    "4. Med ML/Weighted Loss or Resampling.md",
-    "3. Computer Sciences/Data Engineering/DE ZC.md",
-    "2. AB testing/1. Basics/P value.md",
-    "2. AB testing/1. Basics/Multiple comparisons problem.md",
-    "2. AB testing/1. Basics/Main framework.md",
-    "2. Math/0. Теор вер/Теорема Байеса.md",
-    "2. Math/0. Теор вер",
-    "1. Books/Практическая статистика для специалистов Data Science",
-    "Shad-prep/prep_guidance.md",
-    "Shad-prep/README.md",
-    "Shad-prep/syllabus.md",
-    "attachments/Pasted image 20251027221027.png",
-    "attachments/Pasted image 20240531235802.png",
-    "attachments/Logistic Regression.png",
-    "attachments/baby heart rate.png",
-    "attachments/Pasted image 20251027221049.png",
-    "1. Books/Статистика для всех, Бослаф С.",
-    "2. Stat analysis/2. Analysis/Экзотика",
-    "3. Computer Sciences/Pandas",
-    "Нулевой проект/0",
-    "Нулевой проект",
-    "Pasted image 20240717004035.png",
-    "Pasted image 20240717004344.png",
-    "Pasted image 20240630224046.png",
-    "Pasted image 20240717003909.png",
-    "Pasted image 20240630225725.png",
-    "2. Math/Аналитическая геометрия"
+    "2. Math/Статистика/2 Стат тесты/1.1 Non-parametric tests/Kruskal–Wallis test.md",
+    "2. Math/Статистика/3 Корреляции/ANOVA (Analysis of Variance).md",
+    "2. Math/Статистика/3 Корреляции/Clusterization.md",
+    "2. Math/Статистика/4 Регрессии/Regression Linear.md",
+    "2. Math/Статистика/4 Регрессии",
+    "2. Math/Статистика/4 Регрессии/Regression Logistic.md",
+    "2. Math/Статистика/3 Корреляции/Коэффициент корреляции Пирсона.md",
+    "2. Math/Статистика/3 Корреляции/Коэффициент детерминации.md",
+    "2. Math/Статистика/2 Стат тесты/1.0 Parametric tests/F-статистика.md",
+    "2. Math/Статистика/АБ экзотика/Tukey's Ladder of Transformations.md",
+    "2. Math/Статистика/3 Корреляции/Durbin–Watson statistic.md",
+    "attachments/Pasted image 20251101123519.png",
+    "2. Math/Статистика/1 Распределения/t-распределение.md",
+    "attachments/Pasted image 20251101123246.png",
+    "attachments/Pasted image 20251101123239.png",
+    "2. Math/Статистика/0 База/ЦПТ.md",
+    "2. Math/Статистика/2 Стат тесты/1.0 Parametric tests/Т критерии/0. Общее для t-критериев.md",
+    "2. Math/Статистика/3 Корреляции/Корреляции порядковых данных/Ранговая корреляция Спирмена.md",
+    "2. Math/Статистика/3 Корреляции/Корреляции порядковых данных/Гамма Гудмана и Краскела.md",
+    "2. Math/Статистика/3 Корреляции/Корреляции категориальных данных/Бинарные переменные.md",
+    "2. Math/Статистика/3 Корреляции/Корреляции категориальных данных/Точечно-бисериальный коэффициент корреляции.md",
+    "2. Math/Статистика/2 Стат тесты/2.1 Variance equality tests/Бартлетта.md",
+    "2. Math/Статистика/2 Стат тесты/2.1 Variance equality tests/Levene's test.md",
+    "2. Math/Статистика/2 Стат тесты/3. Homoscedasticity tests/Bartlett's test.md",
+    "2. Math/Статистика/2 Стат тесты/3. Homoscedasticity tests/White test.md",
+    "2. Math/Статистика/2 Стат тесты/3. Homoscedasticity tests/Breusch-Pagan test.md",
+    "2. Math/Статистика/2 Стат тесты/Таблицы сопряженности/Парный тест МакНемара.md",
+    "2. Math/Статистика/2 Стат тесты/Таблицы сопряженности/Точный тест Фишера.md",
+    "2. Math/Статистика/2 Стат тесты/Таблицы сопряженности/Хи-квадрат.md",
+    "2. Math/Статистика/2 Стат тесты/1.1 Non-parametric tests/U-test Mann–Whitney.md",
+    "attachments/Pasted image 20251101120443.png",
+    "attachments/Pasted image 20251101115601.png",
+    "attachments/Pasted image 20251101115349.png",
+    "attachments/Pasted image 20251101114746.png",
+    "attachments/Pasted image 20251101114358.png",
+    "attachments/Pasted image 20251101113735.png",
+    "2. Math/Статистика/3 Корреляции",
+    "2. Math/Статистика/АБ экзотика",
+    "attachments/Pasted image 20251028232757.png",
+    "2. Math/Статистика/2 Стат тесты/1.0 Parametric tests/Т критерии",
+    "2. Math/Статистика/Распределения/Untitled",
+    "2. Math/Статистика/корреляции порядковых данных/Untitled",
+    "2. Math/Статистика/3 Корреляции/Корреляции порядковых данных",
+    "2. Math/Статистика/3 Корреляции/Корреляции категориальных данных",
+    "2. Math/Статистика/2 Стат тесты/Таблицы сопряженности",
+    "Job hunting"
   ]
 }
